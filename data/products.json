@@ -1,0 +1,19 @@
+ 
+  [
+    {
+      "codigo": "CAP-112BC",
+      "descricao": "Capacete branca"
+    },
+    {        
+      "codigo": "CAP-112AZ",
+      "descricao": "Capacete azul"
+    },
+    {
+      "codigo": "CAP-112PT",
+      "descricao": "Capacete preto"
+    },
+    {
+      "codigo": "CAP-112M",
+      "descricao": "Capacete marrom"
+    }
+  ]
